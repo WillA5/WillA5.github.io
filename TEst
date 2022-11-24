@@ -1,0 +1,33 @@
+public class Countries {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Header
+		System.out.println("***************************************************************");
+		System.out.println("*                 Top Countries by GDP                        *");
+		System.out.println("***************************************************************");
+		System.out.println("Rank  Country                                GDP (in Trillions)");
+		System.out.println("---------------------------------------------------------------");
+		
+		//List
+		System.out.println("   1  United States                                     $ 20.89");
+		System.out.println("   2  China                                             $ 14.72");
+		System.out.println("   3  Japan                                             $  5.06");
+		System.out.println("   4  Germany                                           $  3.85");
+		System.out.println("   5  United Kingdom                                    $  2.67");
+		System.out.println("   6  India                                             $  2.66");
+		System.out.println("   7  France                                            $  2.63");
+		System.out.println("   8  Italy                                             $  1.89");
+		System.out.println("   9  Canada                                            $  1.64");
+		System.out.println("  10  South Korea                                       $  1.63");
+		System.out.println("  11  Russia                                            $  1.48");
+		System.out.println("  12  Brazil                                            $  1.44");
+		System.out.println("  13  Australia                                         $  1.32");
+		System.out.println("  14  Spain                                             $  1.28");
+		System.out.println("  15  Indonesia                                         $  1.05");
+		System.out.println("---------------------------------------------------------------");
+		System.out.println();
+		System.out.println("By A. Ramirez");
+	}
+
+}
